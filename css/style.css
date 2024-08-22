@@ -1,5 +1,10 @@
 h1 {
-  text-align: center;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
 }
 
 /* 
